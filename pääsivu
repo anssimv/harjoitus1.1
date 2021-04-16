@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="fi">
+<head>	
+   <meta charset="utf-8"/>
+   <title> Välilehden otsikko - muuta!</title>
+</head> 
+<body>
+<a href="aaa.html">aaa</a>
+<a href="bbb.html">bbb</a>
+  
+</body>
+</html>
